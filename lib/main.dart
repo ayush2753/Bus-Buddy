@@ -1,4 +1,5 @@
 import 'package:busbuddy/screens/HomeScreen.dart';
+import 'package:busbuddy/screens/Login.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +16,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       color: Colors.greenAccent,
       home: Scaffold(
-        body: HomeScreen(),
+        body: LoginScreen()
+        /*HomeScreen()*/,
       ),
     );
   }

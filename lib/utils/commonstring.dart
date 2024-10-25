@@ -4,3 +4,7 @@ var addroute = "Add Route";
 var addschedule = "Add Schedule";
 var viewres = "View Reservation";
 var admin = "Admin Login";
+var login="Login";
+var username="UserName";
+var password="Password";
+var createacc ="Create Account";
